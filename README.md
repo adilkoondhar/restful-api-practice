@@ -3,3 +3,4 @@ This project is a RESTful API practice project that shows the basic working of R
 
 ## Technologies Used
 - **Nodejs:** This powerful backend technology seamlessly manages data, ensuring the security and accessibility.
+- **npm:** The default package manager for Node.js, facilitating easy dependency management.
