@@ -6,3 +6,4 @@ This project is a RESTful API practice project that shows the basic working of R
 - **npm:** The default package manager for Node.js, facilitating easy dependency management.
 - **JavaScript:** A versatile scripting language used for building interactive web pages.
 - **Expressjs:** Powerful Node.js framework for building web apps & APIs.
+- **Mongoose:** Simplifies interacting with MongoDB in Node.js by offering schemas, queries, and abstraction.
